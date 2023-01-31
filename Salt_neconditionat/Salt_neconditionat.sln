@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salt_neconditionat", "Salt_neconditionat\Salt_neconditionat.csproj", "{2D5EFCDC-DC1C-48E1-82B3-EFF5E69ACBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5EFCDC-DC1C-48E1-82B3-EFF5E69ACBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5EFCDC-DC1C-48E1-82B3-EFF5E69ACBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5EFCDC-DC1C-48E1-82B3-EFF5E69ACBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5EFCDC-DC1C-48E1-82B3-EFF5E69ACBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8608D962-DE65-45B0-8FEE-CEB529517BAC}
+	EndGlobalSection
+EndGlobal
